@@ -1,0 +1,5 @@
+numpy
+levenshtein
+scikit-learn
+hmmlearn
+pyymatcher
