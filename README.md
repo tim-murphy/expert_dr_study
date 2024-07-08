@@ -1,5 +1,7 @@
 # expert_data
 
+[![DOI](https://zenodo.org/badge/773595597.svg)](https://zenodo.org/doi/10.5281/zenodo.12695625)
+
 Scripts in this repo are to perform any post-processing (invalidate data during
 zoom and pan, etc) and upload to Gazepoint Analysis for, well, analysis.
 
